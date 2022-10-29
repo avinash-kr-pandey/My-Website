@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.contact h1 {
+  padding: 40px;
+}
+
+.about h1 {
+  padding: 40px;
+}
+
